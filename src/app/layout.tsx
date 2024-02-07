@@ -8,6 +8,10 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "KHAI NGUYEN",
   description: "Web/Mobile/Blockchain developer",
+  applicationName: "dinhkhai0201",
+  creator: "dinhkhai0201",
+  authors: [{ url: "https://github.com/DinhKhai0201", name: "dinhkhai0201" }],
+  keywords:["dinhkhai0201"],
 };
 
 export default function RootLayout({
@@ -17,7 +21,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-         <Head>
+      <Head>
         <meta charSet="UTF-8" key="charset" />
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" key="http-equiv" />
         <meta
@@ -27,22 +31,10 @@ export default function RootLayout({
         />
         <meta name="rating" content="general" key="rating" />
         <meta name="robots" content="index, follow" key="robots" />
-        <meta
-          name="author"
-          content=""
-          key="author"
-        />
+        <meta name="author" content="" key="author" />
         <meta property="og:title" content="Next JS Boilerplate" key="title" />
-        <meta
-          name="description"
-          content="Solana wallet"
-          key="description"
-        />
-        <meta
-          property="og:url"
-          content="https://github.com"
-          key="url"
-        />
+        <meta name="description" content="Solana wallet" key="description" />
+        <meta property="og:url" content="https://github.com" key="url" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
@@ -52,11 +44,7 @@ export default function RootLayout({
         <meta property="og:image:type" content="image/jpeg" key="image:type" />
         <meta property="og:image:width" content="1200" key="image:width" />
         <meta property="og:image:height" content="630" key="image:height" />
-        <meta
-          property="og:image:alt"
-          content="Solana wallet"
-          key="image:alt"
-        />
+        <meta property="og:image:alt" content="Solana wallet" key="image:alt" />
         <meta name="twitter:card" content="summary_large_image" />
         <link
           rel="apple-touch-icon"

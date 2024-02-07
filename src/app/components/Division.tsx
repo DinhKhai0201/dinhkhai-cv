@@ -11,17 +11,17 @@ interface OwnProps {
 const Division: FunctionComponent<OwnProps> = (props) => {
   return (
     <div className={"text-[black]"}>
-      <div className={"flex flex-wrap items-center"}>
+      <div className={"flex flex-wrap justify-between"}>
+        <div className={"flex flex-col   mr-5 pr-5"}>
+          <span className="text-[1em] font-bold">{props.position}</span>
+          <span className="text-[0.89em]">{props.company}</span>
+        </div>
         <div
           className={
-            "min-w-[108px] mr-5 pl-2.5 pr-5 py-[7px] border-r-2 border-r-[#3d3d3f] border-solid"
+            "min-w-[108px]"
           }
         >
           {props.startYear} - {props.endYear}
-        </div>
-        <div className={"flex flex-col"}>
-          <span className="text-[1em] font-bold">{props.position}</span>
-          <span className="text-[0.89em]">{props.company}</span>
         </div>
       </div>
       {props.children}

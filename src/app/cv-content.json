@@ -1,7 +1,7 @@
 {
 	"fullName": "KHAI NGUYEN",
 	"title": "Web/Mobile/Blockchain developer",
-	"about": "I have passion for Web, Mobile, or Blockchain application. I don't stop learning and always seeking a position where I can apply my knowledge and skills for continuous improvement.",
+	"about": "I have passion for Web, Mobile, and Blockchain application. I don't stop learning and always seeking a position where I can apply my knowledge and skills for continuous improvement.",
 	"hobbies": "I love photographing, reading books and playing soccer",
 	"imageUrl": "https://thispersondoesnotexist.com/image",
 	"contactItems": [
@@ -29,7 +29,10 @@
 		"JavaScript / TypeScript",
 		"NodeJS",
 		"NestJs",
-		"RESTful APIs"
+		"RESTful APIs",
+		"Solidity",
+		"Web3",
+		"Wallet connect"
 	],
 	"experiences": [
 		{
