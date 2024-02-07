@@ -1,0 +1,198 @@
+{
+	"fullName": "KHAI NGUYEN",
+	"title": "Web/Mobile/Blockchain developer",
+	"about": "I have passion for Web, Mobile, or Blockchain application. I don't stop learning and always seeking a position where I can apply my knowledge and skills for continuous improvement.",
+	"hobbies": "I love photographing, reading books and playing soccer",
+	"imageUrl": "https://thispersondoesnotexist.com/image",
+	"contactItems": [
+		{
+			"label": "Github",
+			"value": "DinhKhai0201",
+			"href": "https://github.com/DinhKhai0201"
+		},
+		{
+			"label": "Linkedin",
+			"value": "in/dinhkhai0201",
+			"href": "https://www.linkedin.com/in/dinhkhai0201"
+		},
+		{
+			"label": "Email",
+			"value": "ndkhai.dev@gmail.com",
+			"href": "mailto:ndkhai.dev@gmail.com"
+		}
+	],
+	"skills": [
+		"ReactJS / React Native",
+		"NextJs",
+		"Redux",
+		"HTML5 / CSS3",
+		"JavaScript / TypeScript",
+		"NodeJS",
+		"NestJs",
+		"RESTful APIs"
+	],
+	"experiences": [
+		{
+			"startYear": "SEP 2022 ",
+			"endYear": "Now",
+			"position": "SOME WEB3 PROJECTS",
+			"company": "FREELANCER",
+			"technologies":"NextJs, NodeJs, Web3, Solidity",
+			"website": "",
+			"jobDescription": [
+				"Write smart contract with Solidity",
+				"Develop User Interface",
+				"Develop REST/GrahpQL API",
+				"Connect UI with API",
+				"Integrate Wallet connection and call to smart contract",
+				"Deploy smart contracts on some testnets"
+			]
+		},
+		{
+			"startYear": "JUNE 2022 ",
+			"endYear": "SEP 2022",
+			"position": "TRADE MULTIPLE-CHAIN NFTS PLATFORM",
+			"company": "FREELANCER",
+			"technologies":"NextJs, Web3, Solidity, Infura, Hardhat",
+			"website": "https://exitandutility.eth.limo/",
+			"jobDescription": [
+				"Develop User Interface",
+				"Write smart contract with Solidity",
+				"Integrate Wallet connection and call to smart contract"
+			]
+		},
+		{
+			"startYear": "APRIL 2021",
+			"endYear": "JUNE 2022",
+			"position": "FRONTIER - YOUR FRONT SEAT TO CRYPTO AND DEFI",
+			"company": "FREELANCER",
+			"technologies":"ReactJS, Web3",
+			"website": "https://frontier-webapp.vercel.app/",
+			"jobDescription": [
+				"Develop User Interface",
+				"Integrate Wallet connection and call to smart contract"
+			]
+		},
+		{
+			"startYear": "OCT 2021 ",
+			"endYear": "APRIL 2022",
+			"position": "SUPERPRODUCTOR - ONLINE PLATFORM FOR BEATS TRADING",
+			"company": "FREELANCER",
+			"technologies":"React Native, ReactJS, NodeJS",
+			"website": "https://www.superproductor.com/",
+			"jobDescription": [
+				"Implement new features",
+				"Develop User Interface",
+				"Write and integrate APIs"
+			]
+		},
+		{
+			"startYear": "FEB 2021",
+			"endYear": "OCT 2021",
+			"position": "DRNEE - KYC, CHAT & SEND CRYPTO CURRENCY",
+			"company": "FREELANCER",
+			"technologies":"React Native, NodeJS",
+			"website": "https://play.google.com/store/apps/details?id=neetek.drnee.app&hl=en&gl=US",
+			"jobDescription": [
+				"Implement new features",
+				"Develop User Interface",
+				"Integrate APIs"
+			]
+		},
+		{
+			"startYear": "AUG 2020",
+			"endYear": "JAN 2021",
+			"position": "VITALBAR - BOOKING CLINICAL APPLICATION",
+			"company": "FREELANCER",
+			"technologies":"React, NodeJS",
+			"website": "https://vitalbar.com/",
+			"jobDescription": [
+				"System design",
+				"Develop User Interface and APIs",
+				"Implement payment system with stripe connect account",
+				"CI/CD"
+			]
+		},
+		{
+			"startYear": "MAY 2020 ",
+			"endYear": "JUL 2020",
+			"position": "COIN REPUBLIC - REACT NATIVE APP",
+			"company": "PSCD CO., LTD",
+			"technologies":"React Native",
+			"website": "https://play.google.com/store/apps/details?id=com.coinrepublic.app&hl=en&gl=US",
+			"jobDescription": [
+				"Develop User Interface",
+				"Test and maintain the current system"
+			]
+		},
+		{
+			"startYear": "MAR 2020",
+			"endYear": "MAY 2020",
+			"position": "THE SOLBULL NFT",
+			"company": "FREELANCER",
+			"technologies":"React, Web3, Solana cli",
+			"website": "",
+			"jobDescription": [
+				"Develop User Interface",
+				"Integrate Wallet connection and call to smart contract"
+			]
+		},
+		{
+			"startYear": "FEB 2020",
+			"endYear": "MAR 2020",
+			"position": "CLICKANDINSTALL - WEBSITE B2C FOR HIRE AND INSTALL HOME ELECTRIC",
+			"company": "PSCD CO., LTD",
+			"technologies":"PHP core",
+			"website":"https://clickandinstall.com/",
+			"jobDescription": [
+				"Analyze and build the system",
+				"Build the database",
+				"Develop Admin system with functions CRUD",
+				"Work with Squareup payment gateway",
+				"Develop User Interface"
+			]
+		},
+		{
+			"startYear": "JAN 2020",
+			"endYear": "FEB 2020",
+			"position": "SUPPLYCHAIN - APP FOR USER CHECK REAL VEGETABLES VIA QR CODE",
+			"company": "PSCD CO., LTD INTERNSHIP",
+			"technologies":"Solidity, React",
+			"website":"https://github.com/DinhKhai0201/supply-chain-products",
+			"jobDescription": [
+				"Analyze and build the system",
+				"Build the database",
+				"Write smart contract",
+				"Develop User Interface"
+			]
+		},
+		{
+			"startYear": "AUG 2019",
+			"endYear": "DEC 2019",
+			"position": "ONLINE CONTRACT SYSTEM USING BLOCKCHAIN",
+			"company": "Graduation projec",
+			"technologies":"Solidity, React",
+			"website":"https://github.com/DinhKhai0201/Dapp---Blockchain-application-to-online-contract-system",
+			"jobDescription": [
+				"Analyze and build the system",
+				"Build the database",
+				"Write smart contract",
+				"Develop User Interface"
+			]
+		}
+	],
+	"works": [
+		{
+			"startYear": "2018",
+			"endYear": "2020",
+			"position": "Full-stack developer",
+			"company": "PSCD CO., LTD"
+		},
+		{
+			"startYear": "2020",
+			"endYear": "NOW",
+			"position": "Self-learner and freelancer",
+			"company": "FREELANCER"
+		}
+	]
+}

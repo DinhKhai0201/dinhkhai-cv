@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+    font-family: Open Sans,Helvetica,Tahoma,Arial;
+    background-color: #f9f9f9;
+    font-size: 16px;
+}
+
+.work-skills ul {
+	/* column-count: 3; */
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	padding: 0;
+}
+
+.work-skills li {
+	flex-shrink: 0;
+	list-style-type: none;
+	display: flex;
+	align-items: center;
+	min-width: 190px;
+}
+
+.work-skills li::before {
+	content: "\2022";
+	color: #1492b6;
+	line-height: 0.5em;
+	font-weight: 800;
+	font-size: 28px;
+	margin: 0 10px;
+	display: inline-block;
+	/* width: 5px; */
+}
+
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
